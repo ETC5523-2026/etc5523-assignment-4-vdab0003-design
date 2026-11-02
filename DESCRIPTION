@@ -12,3 +12,6 @@ Roxygen: list(markdown = TRUE)
 Depends: 
     R (>= 3.5)
 LazyData: true
+Imports: 
+    dplyr,
+    rlang
