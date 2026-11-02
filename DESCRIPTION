@@ -1,0 +1,11 @@
+Package: haiexplorer
+Title: Explore the Burden of Hospital Infections
+Version: 0.0.0.9000
+Authors@R: 
+    person("Vibhor", "Dabas", email = "dabasvibhor@gmail.com", role = c("aut", "cre"))
+Description: Data and a Shiny app for comparing the burden of
+    hospital-acquired infections in Germany and Europe.
+License: MIT + file LICENSE
+Config/roxygen2/version: 8.1.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
