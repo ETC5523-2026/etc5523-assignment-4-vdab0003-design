@@ -113,7 +113,8 @@ I used two generative AI tools while preparing this assignment:
 
 - **Claude (Anthropic):** to help write and refine parts of the Shiny
   app (`inst/app/app.R`) and to help diagnose and fix bugs and notes
-  reported by `devtools::check()`.
+  reported by `devtools::check()`. Also, draft the roxygen2
+  documentation and this README
 
 I checked, tested and revised all generated code and text, and I
 understand how each part of the package works.
