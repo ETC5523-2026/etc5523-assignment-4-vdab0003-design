@@ -1,4 +1,4 @@
 ^LICENSE\.md$
-^Ass4\.qmd$
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^data-raw$
