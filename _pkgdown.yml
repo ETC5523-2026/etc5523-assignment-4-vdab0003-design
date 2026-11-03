@@ -1,3 +1,19 @@
 url: https://etc5523-2026.github.io/etc5523-assignment-4-vdab0003-design/
 template:
   bootstrap: 5
+
+reference:
+  - title: Launch the app
+    desc: Open the interactive explorer.
+    contents:
+      - run_app
+  - title: Analyse the data
+    desc: Rank infections by cases, deaths or healthy years lost.
+    contents:
+      - rank_infections
+  - title: Datasets
+    desc: Hospital-acquired infection data for Germany and Europe, 2011-12.
+    contents:
+      - hai_burden
+      - hai_rates
+      - hai_counts
