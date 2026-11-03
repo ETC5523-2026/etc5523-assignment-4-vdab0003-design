@@ -24,7 +24,7 @@ measure_label <- c(
 highlight <- "#C8102E"
 muted     <- "grey65"
 
-# UI: what the user sees and can do --------------------------------------
+# UI: what the user sees and can do -
 ui <- page_sidebar(
   title = "Which hospital infections should we prioritise?",
   fillable = FALSE,
@@ -157,7 +157,7 @@ ui <- page_sidebar(
   )
 )
 
-# Server: how outputs respond to inputs -----------------------------------
+# Server: how outputs respond to inputs -
 server <- function(input, output, session) {
 
   # Turn the on/off switch into the scale name used in the data
