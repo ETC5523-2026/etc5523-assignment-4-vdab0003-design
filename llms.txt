@@ -111,7 +111,7 @@ infections overlap, their order may not be reliable.
 
 ## Generative AI declaration
 
-I used two generative AI tools while preparing this assignment:
+I used generative AI tool while preparing this assignment:
 
 - **Claude (Anthropic):** to help write and refine parts of the Shiny
   app (`inst/app/app.R`) and to help diagnose and fix bugs and notes
