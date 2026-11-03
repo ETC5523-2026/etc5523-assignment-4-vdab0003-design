@@ -3,15 +3,16 @@ Title: Explore the Burden of Hospital Infections
 Version: 0.0.0.9000
 Authors@R: 
     person("Vibhor", "Dabas", email = "dabasvibhor@gmail.com", role = c("aut", "cre"))
-Description: Data and a Shiny app for comparing the burden of
-    hospital-acquired infections in Germany and Europe.
+Description: Data, a ranking function and a Shiny app to help
+    infection-prevention managers compare the yearly burden of five
+    hospital-acquired infections in Germany and Europe by cases, deaths
+    and disability-adjusted life years (DALYs). Data are derived from the
+    ECDC point prevalence survey 2011-12 via the BHAI package.
 License: MIT + file LICENSE
-Config/roxygen2/version: 8.1.0
-Encoding: UTF-8
-Roxygen: list(markdown = TRUE)
+URL: https://etc5523-2026.github.io/etc5523-assignment-4-vdab0003-design/, https://github.com/ETC5523-2026/etc5523-assignment-4-vdab0003-design
+BugReports: https://github.com/ETC5523-2026/etc5523-assignment-4-vdab0003-design/issues
 Depends: 
-    R (>= 3.5)
-LazyData: true
+    R (>= 4.1.0)
 Imports: 
     bslib,
     dplyr,
@@ -22,4 +23,7 @@ Suggests:
     knitr,
     quarto
 VignetteBuilder: quarto
-URL: https://etc5523-2026.github.io/etc5523-assignment-4-vdab0003-design/, https://github.com/ETC5523-2026/etc5523-assignment-4-vdab0003-design
+Config/roxygen2/version: 8.1.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+LazyData: true
