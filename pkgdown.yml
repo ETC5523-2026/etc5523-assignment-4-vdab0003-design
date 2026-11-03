@@ -1,0 +1,9 @@
+pandoc: 3.8.3
+pkgdown: 2.2.1
+pkgdown_sha: ~
+articles:
+  prioritise-infections: prioritise-infections.html
+last_built: 2026-11-03T07:14Z
+urls:
+  reference: https://etc5523-2026.github.io/etc5523-assignment-4-vdab0003-design/reference
+  article: https://etc5523-2026.github.io/etc5523-assignment-4-vdab0003-design/articles
